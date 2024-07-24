@@ -1,0 +1,347 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+}
+@media (max-width:768px) {
+    .top>div{
+        display: none;
+    }
+}
+@media (max-width:768px) {
+    .qz{
+        display: none;
+    }
+}
+.top{
+    padding-top: 10px;
+    background-color: #ffffff;
+}
+.email>a{
+    color: black;
+    text-decoration: none;
+}
+.tleft>a{
+    color: black;
+    font-weight: 400;
+    text-decoration: none;
+}
+.hm>a{
+    color: rgb(11, 153, 139) !important;
+}
+.nav-item>a{
+    color: rgb(0, 0, 0);
+}
+.nav-item>a:hover{
+    color: rgb(11, 153, 139);
+}
+
+
+.part1{
+    padding-top: 60px;
+    padding-bottom: 70px;
+    color: #ffffff;
+    background-position:20%;
+    background-image: url(img/p1.avif);
+}
+.pp{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.inn{
+    padding-left: 30px;
+}
+.inn>i{
+    padding-top: 9px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #000000;
+}
+.inn>input{
+    padding: 4px;
+    border: 1px solid #ffffff;
+}
+.ser{
+    padding: 5px;
+    margin-left: 12px;
+    text-align: center;
+    background-color: rgb(3, 14, 82);
+    cursor: pointer;
+}
+.row>.ns{
+    padding-top: 10px;
+}
+.row>.ser{
+    margin-top: 10px;
+}
+
+.part2{
+    padding-top:40px ;
+    padding-bottom: 30px;
+    background-color: rgb(247, 242, 242);
+}
+.ca{
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+.row>.car{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(247, 242, 242);
+    background-color: #ffffff;
+}
+.car>span{
+    margin-left: 10px;
+    padding-top: 18px;
+}
+.car>i{
+    padding-top: 18px;
+    text-align: center;
+    align-items: center;
+    font-size: 35px;
+    color: aqua;
+} 
+
+.part3{
+    padding-top: 40px ;
+    padding-bottom: 40px;
+}
+.des>div{
+    padding-top: 30px ;
+}
+
+.part4{
+    padding-top: 40px ;
+    padding-bottom: 40px;
+    background: url(img/riv.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.num>div{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.num>div>h2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 4px solid #ffffff;
+    color: #ffffff;
+    border-radius: 100px;
+}
+.butt{
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: rgb(41, 74, 192);
+}
+.container>.nt{
+   padding-top: 20px;
+}
+
+.part5{
+    padding-top: 40px ;
+    padding-bottom: 40px;
+    background-color: rgb(241, 241, 241);
+}
+.row>.ar{
+    padding: 0px;
+    padding-bottom:30px ;
+    background-color: #ffffff;
+}
+.ar>img{
+    width: 100%;
+    height: 60%;
+}
+.ar>div{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ar>div>div{
+    padding: 10px;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: rgb(40, 57, 190);
+}
+.ar>div>h3{
+    color: rgb(40, 57, 190) ;
+    font-weight: bold;
+}
+
+.part6{
+    padding-top: 50px ;
+    padding-bottom: 40px;
+    background-color: rgb(241, 241, 241);
+}
+.row>.pm{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border: 1.5px solid rgb(232, 232, 232);
+    background-color: #ffffff;
+}
+.tt>.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.pm>img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.pm>h1{
+    padding-top: 8px;
+}
+.doo>i{
+    padding-top: 40px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.ee{
+    color: #c6c4c4;
+}
+.ee:hover{
+    color: rgb(41, 72, 171);;
+}
+
+.container>.btt{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btt{
+    color: #ffffff;
+}
+.blu{
+    padding-top: 120px;
+    padding-bottom: 80px;
+    color: #ffffff;
+    background-color: rgb(41, 72, 171);
+}
+.blu>div{
+    padding-left: 80px;
+}
+.txx{
+    padding-top: 40px;
+    background-color: #052c63;
+}
+.txx>.vc{
+    padding-left: 22px;
+}
+.re{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.gh{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.gh>.nb{
+    margin-right: 20px;
+}
+.nb{
+    padding: 10px;
+    font-weight: 500;
+    border: 1px solid rgb(40, 57, 190);
+    background-color: rgb(40, 57, 190);
+    cursor: pointer;
+}
+.nb:hover{
+    color: rgb(40, 57, 190);
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+}
+.mr{
+    padding: 10px;
+    font-weight: 500;
+    color: rgb(40, 57, 190);
+    font-weight: 500;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.mr:hover{
+    color: #ffffff;
+    border: 1px solid rgb(40, 57, 190);
+    background-color: rgb(40, 57, 190);
+}
+
+.part7{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: rgb(241, 241, 241);
+}
+.ar>.qq{
+    padding-left: 10px;
+}
+.qq>.lp{
+    padding-top: 10px;
+}
+.qq>.rrm{
+    color: rgb(40, 57, 190);
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+.part8{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #ffffff;
+    background-color: rgb(19, 31, 120);
+}
+.sub>.row>div{
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+.inpp>span>input{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+.inpp>span>h5{
+  padding-top: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+    color: #ffffff;
+    background-color: #000000;
+}
+.wee>span{
+    padding: 3px;
+    background-color: rgb(255, 255, 102);
+}
+
+.part9{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.lst>p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.lst>p:hover{
+    color: rgb(40, 57, 190);
+}
+.lst>div>i{
+    color: #9b9b9b;
+}
+.lst>div>i:hover{
+    cursor: pointer;
+    color: rgb(40, 57, 190);
+}
+.crp{
+    padding-top: 20px;
+}
+.scc>img{
+    float: right;
+}
